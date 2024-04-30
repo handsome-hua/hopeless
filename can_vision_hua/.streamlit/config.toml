@@ -1,0 +1,17 @@
+[server]
+# Automatically rerun script when the file is modified on disk.
+# Default: false
+runOnSave = true
+#port = 85
+#baseUrlPath = ""
+# Max size, in megabytes, for files uploaded with the file_uploader.
+# Default: 200
+enableStaticServing = true
+maxUploadSize = 1000
+[theme]
+base="dark"
+primaryColor="＃F08080"
+backgroundColor="#f8f8ff"
+secondaryBackgroundColor="＃ADD8E6"
+textColor="#262730"
+font="sans serif"
